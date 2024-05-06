@@ -134,5 +134,18 @@ a{
     margin-top: 80px;
    
    }
+   
+.red:hover {
+  border: none;
+}
+.blue:hover {
+  border: none;
+}
+.green:hover {
+  border: none;
+}
+.yellow:hover {
+  border: none;
+}
 
 }
