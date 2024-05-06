@@ -119,3 +119,20 @@ a{
   color: black;
 }
 
+
+@media (max-width: 740px) {
+  h1{
+    font-size: 3rem;
+  }
+
+  .main {
+    height: 60%;
+    width: 80vw;
+   
+  }
+  a{
+    margin-top: 80px;
+   
+   }
+
+}
